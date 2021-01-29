@@ -1,0 +1,564 @@
+1611751460065	geckodriver	INFO	Listening on 127.0.0.1:61680
+1611751463120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilehmp7oy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751465724	Marionette	INFO	Listening on port 61688
+1611751465813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611751477550	Marionette	INFO	Stopped listening on port 61688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611751495757	geckodriver	INFO	Listening on 127.0.0.1:61758
+1611751498795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile1m68Nn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751501253	Marionette	INFO	Listening on port 61766
+1611751501452	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Marionette threw an error: TypeError: browsingContextFn() is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+1611751552339	Marionette	INFO	Stopped listening on port 61766
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611751894945	geckodriver	INFO	Listening on 127.0.0.1:61965
+1611751898015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofileHj5WcN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751900277	Marionette	INFO	Listening on port 61973
+1611751900698	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+console.info: "Skipping device list refresh; not signed in"
+JavaScript error: https://assets.getpocket.com/web/main.ba9806c7bc46056e1919.js, line 94: uncaught exception: [object Event]
+1611753513374	Marionette	INFO	Stopped listening on port 61973
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611799512228	geckodriver	INFO	Listening on 127.0.0.1:64283
+1611799515296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofileN6w63U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611799517529	Marionette	INFO	Listening on port 64291
+1611799517979	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.2/??overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,xtemplate/runtime-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js,xtemplate-min.js,xtemplate/compiler-min.js?t=1_2013072520131122.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1611799714928	Marionette	INFO	Stopped listening on port 64291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilexuFdFI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611799592340	Marionette	INFO	Listening on port 64469
+1611799592552	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/??mui/mallbar/3.2.36/index.js,kissy/k/1.4.2/swf-min.js,kissy/k/1.4.2/xtemplate-min.js,kissy/k/1.4.2/xtemplate/compiler-min.js,mui/mallbar/3.2.36/conf.js,mui/mallbar/3.2.36/util.js,mui/minilogin/3.1.6/index.js,mui/overlay/3.0.10/dialog.js,mui/mallbar/3.2.36/model.js,mui/mallbar/3.2.36/store.js,mui/storage/3.0.5/index.js,mui/storage/3.0.5/conf.js,mui/storage/3.0.5/util.js,mui/storage/3.0.5/xd.js,mui/storage/3.0.5/name.js,mui/mallbar/3.2.36/mallbar-item.js,mui/mallbar/3.2.36/mallbar-guide.js,mui/mallbar/3.2.36/plugin-prof.js,mui/mallbar/3.2.36/plugin-asset.js,mui/mallbar/3.2.36/plugin-brand.js,mui/mallbar/3.2.36/plugin-live.js,mui/mallbar/3.2.36/plugin-foot.js,mui/mallbar/3.2.36/plugin-top.js,mui/mallbar/3.2.36/plugin-ue.js,mui/mallbar/3.2.36/plugin-qrcode.js,mui/mallbar/3.2.36/plugin-favor.js,mui/mallbar/3.2.36/plugin-charge.js,mui/mallbar/3.2.36/plugin-cart.js,mui/minicart/3.0.38/minicart.js,mui/minicart/3.0.38/model.js,mui/minicart/3.0.38/util.js,mui/mallbar/3.2.36/plugin-nav.js,mui/mallbar/3.2.36/plugin-worth.js?t=1_2013072520131122.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611799709354	Marionette	INFO	Stopped listening on port 64469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+unknown module)"))
+1611799682700	Marionette	INFO	Listening on port 64665
+1611799682936	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+1611799711796	Marionette	INFO	Stopped listening on port 64665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611799754046	geckodriver	INFO	Listening on 127.0.0.1:64785
+1611799757112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilefWU9IH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611799759693	Marionette	INFO	Listening on port 64793
+1611799759818	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.1/??node-min.js,anim-min.js,anim/base-min.js,anim/timer-min.js,anim/transition-min.js,swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=1.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611799802225	Marionette	INFO	Stopped listening on port 64793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611800508759	geckodriver	INFO	Listening on 127.0.0.1:64934
+1611800511805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilenXQDB1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611800514154	Marionette	INFO	Listening on port 64942
+1611800514503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611800534837	Marionette	INFO	Stopped listening on port 64942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611800540282	geckodriver	INFO	Listening on 127.0.0.1:64994
+1611800543329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilesrZBXc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611800545766	Marionette	INFO	Listening on port 65002
+1611800546016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1611800775648	geckodriver	INFO	Listening on 127.0.0.1:65128
+1611800778716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofileH3lNRd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611800781148	Marionette	INFO	Listening on port 65136
+1611800781392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1611801601484	geckodriver	INFO	Listening on 127.0.0.1:65300
+1611801604515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofileeqjZgV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611801606793	Marionette	INFO	Listening on port 65308
+1611801607193	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1611802157113	Marionette	INFO	Stopped listening on port 65308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile67zMzm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802005584	Marionette	INFO	Listening on port 65502
+1611802005932	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+1611802256749	geckodriver	INFO	Listening on 127.0.0.1:49269
+1611802259839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile1Ru2a4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802262439	Marionette	INFO	Listening on port 49277
+1611802262547	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1611802340751	Marionette	INFO	Stopped listening on port 49277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611802344477	geckodriver	INFO	Listening on 127.0.0.1:49398
+1611802347498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilePoiYL1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802349758	Marionette	INFO	Listening on port 49406
+1611802350173	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802401146	Marionette	INFO	Listening on port 49538
+1611802401362	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1611803029307	Marionette	INFO	Stopped listening on port 49538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1611802877914	Marionette	INFO	Stopped listening on port 49702
+1611912534356	geckodriver	INFO	Listening on 127.0.0.1:49847
+1611912537366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilejEf4W0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611912551518	Marionette	INFO	Listening on port 49855
+1611912551757	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+1611912563597	Marionette	INFO	Stopped listening on port 49855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611922764154	geckodriver	INFO	Listening on 127.0.0.1:50302
+1611922767196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofileOTBqJI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611922769893	Marionette	INFO	Listening on port 50310
+1611922770372	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+1611922807643	Marionette	INFO	Stopped listening on port 50310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611923414364	geckodriver	INFO	Listening on 127.0.0.1:50515
+1611923417391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofilecQOoVn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611923419919	Marionette	INFO	Listening on port 50523
+1611923420073	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1611924418820	geckodriver	INFO	Listening on 127.0.0.1:50699
+1611924421836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofileMYbd4b"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611924424177	Marionette	INFO	Listening on port 50707
+1611924424462	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 284: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.16/xtemplate/compiler-min.js, line 96: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.5/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
